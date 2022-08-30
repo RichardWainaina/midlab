@@ -1,0 +1,16 @@
+.btn-primary{
+    background-color: #00ffff!important;
+    border-color: #00ffff;
+}
+.btn-light{
+    background-color: #f0f8ff;
+    border-color:#00ffff;
+    color: #00ffff;
+}
+.btn-light :hover{
+    background-color: #00ffff;
+    color: #00ffff;
+}
+.text-info{
+    color: #00ffff!important;
+}
